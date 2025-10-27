@@ -1,0 +1,24 @@
+body {
+    margin: 0;
+    background-size: cover;
+    text-align: center;
+    justify-self: center;
+    padding: 25px;
+}
+
+.closedfolders {
+    padding-top: 200px;
+}
+
+#closed-folder-1 {
+    padding-right: 200px;
+}
+
+#closed-folder-3 {
+    padding-left: 200px;
+}
+
+
+.titles {
+    height: 100px;
+}
